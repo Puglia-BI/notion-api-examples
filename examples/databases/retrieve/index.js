@@ -1,4 +1,4 @@
-/**
+
  * Arguments:
  *
  * --database-id: ID of the page to fetch

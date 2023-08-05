@@ -11,7 +11,7 @@
 const { notion, yargs } = require('../../shared');
 const { log } = require('../../shared/utils');
 
-const databaseId = '7354557becb34d72b6140bb541ac529a';
+const databaseId = Da '7354557becb34d72b6140bb541ac529a';
 
 const argv = yargs.default({
   databaseId,
